@@ -1,0 +1,4 @@
+About Me
+I am a Software Engineering student.
+I am learning Git and GitHub.
+This file is created for SCD Lab Assignment 2.
